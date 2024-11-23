@@ -1,0 +1,2 @@
+# NHANES-oral-health-characteristics-and-MASLD-DATASET-MERGING
+This project investigates the association between oral health characteristics and MASLD using NHANES 2017-2020 pre-pandemic data. Datasets were merged with SEQN as the key, duplicates removed, and specific variables extracted for cleaning and analysis. The goal is to uncover potential links between oral health and metabolic liver disease.
